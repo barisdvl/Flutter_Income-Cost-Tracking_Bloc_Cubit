@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350574942532",
+    "project_id": "flutter-bloc-cubit",
+    "storage_bucket": "flutter-bloc-cubit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350574942532:android:bf918bbb3217afac385f11",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_cubit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350574942532-unn3al1kuq3srlht0upej6o4ddltif85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_bloc_cubit",
+            "certificate_hash": "0c8f147a4c948f5e26071ee42790b0dda713fb11"
+          }
+        },
+        {
+          "client_id": "350574942532-nn6k6gpf98f3n8uh4ffjhv7n06nfur4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9piCBofriuNcoGCwXD1BZWCopYU08ZHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350574942532-nn6k6gpf98f3n8uh4ffjhv7n06nfur4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
